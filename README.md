@@ -1,12 +1,9 @@
 ## 👋 Hi there! I'm ShoobyDoo
-Welcome to my GitHub profile! 
-
-I'm a passionate software developer based in Ontario, Canada. I love diving into code, exploring new technologies, and building innovative solutions.
+I'm a passionate software developer based in Canada. I love diving into code, exploring new technologies, and building innovative solutions.
 
 ### 🛠️ Tech Stack
 * Languages: TypeScript, JavaScript, Python, HTML, CSS
 * Frameworks/Libraries: React, Node.js, Express, Tailwind CSS
-* Tools: Vite, VSCode, Git
 * Databases: MongoDB, PostgreSQL, mySQL
 
 ### 🔭 Current Projects
