@@ -14,3 +14,5 @@ Features: Fully-fledged CRUD api, User registration & management, Email verifica
 ### 🌱 Learning and Growth
 * Currently exploring advanced TypeScript patterns and best practices.
 * Experimenting with new front-end technologies and frameworks. (Next.js)
+
+### 👇 Popular Projects 
