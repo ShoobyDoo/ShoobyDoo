@@ -12,13 +12,7 @@ I'm a passionate software developer based in Ontario, Canada. I love diving into
 ### 🔭 Current Projects
 * [OPGG.py](https://github.com/ShoobyDoo/OPGG.py): A public Python library for scraping web content and structuring api responses of popular game data.
 * [WizGuide](https://www.wizguide.app/): A modern wiki-style web application built with React, Typescript, and Tailwind.css.<br>
-  Features:
-  * Project specific fully-fledged CRUD api
-  * User registration & authentication
-  * Email verification
-  * Security best-practices (Password encryption, JWT, etc)
-  * Data fetching
-  * User administration & management
+Features: Fully-fledged CRUD api, User registration & management, Email verification, Data fetching
 
 ### 🌱 Learning and Growth
 * Currently exploring advanced TypeScript patterns and best practices.
