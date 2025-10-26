@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Shoaib
+## 👋 Hi there!
 I'm a passionate software developer based in Canada. I love diving into code, exploring new technologies, and building innovative solutions.
 
 ### 🛠️ Tech Stack
