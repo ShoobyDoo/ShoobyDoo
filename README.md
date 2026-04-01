@@ -11,6 +11,6 @@ I'm a passionate software developer based in Canada. I love diving into code, ex
 * [OPGG.py](https://github.com/ShoobyDoo/OPGG.py): A public Python library for scraping web content and structuring api responses of popular game data.
 
 ### 🌱 Learning and Growth
-* Currently learning Java and Spring/SpringBoot 
+* Currently overhauling my knowledge in Java and Spring/SpringBoot 
 
 ### 👇 Popular Projects 
